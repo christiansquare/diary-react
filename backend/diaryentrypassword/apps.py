@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class MoodtrackerProjectConfig(AppConfig):
+class DiaryentrypasswordConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'moodtracker_project'
+    name = 'diaryentrypassword'
