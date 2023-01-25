@@ -20,4 +20,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/auth/', include('authentication.urls')),
     path('api/cars/', include('cars.urls')),
+    path('api/diaryentrypassword/',include('diaryentrypassword.urls')),
+    path('api/moodtracker/',include('moodtracker.urls')),
+    path('api/styles/',include('styles.urls')),
 ]

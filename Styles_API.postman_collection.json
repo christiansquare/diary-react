@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "250a906c-e050-4c96-9bcb-ffe5c60814fd",
+		"name": "Styles_API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24421219"
+	},
+	"item": [
+		{
+			"name": "GET_ALL_Styles",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POST_STYLES",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "UPDATE_STYLES",
+			"request": {
+				"method": "PUT",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE_STYLES",
+			"request": {
+				"method": "DELETE",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

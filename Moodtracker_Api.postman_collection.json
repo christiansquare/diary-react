@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "adc63539-846e-4fe2-bfd9-76abcb842da5",
+		"name": "Moodtracker_Api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24421219"
+	},
+	"item": [
+		{
+			"name": "Get_All_Moodtrackers",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POST_Moodtrackers",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "UPDATE_MOODTRACKERS",
+			"request": {
+				"method": "PUT",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE_Moodtrackers",
+			"request": {
+				"method": "DELETE",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

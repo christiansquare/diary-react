@@ -158,3 +158,8 @@ try:
     from drf_jwt_backend.local_settings import *
 except ImportError:
     pass
+
+
+REST_FRAMEWORK={
+    'COERCE_DECIMAL_TO_STRING': False
+}
